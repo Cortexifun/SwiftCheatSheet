@@ -1,4 +1,6 @@
 /*
+
+ Wrote by omid : 
  An optional is like a wrapper or box. It can hold something or it can be empty. Imagine a gift box or package being delivered from Amazon... Your package should have something inside, but it's possible that it won't if there was some type of mishap at the fulfillment center.
  
  The big idea is that we can safely use the box without worry of what, if anything, is inside.
